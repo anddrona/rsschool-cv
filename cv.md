@@ -16,3 +16,27 @@ So, what about me? I hate praise myself, but still:
 
 I believe, this course help me with becoming me like a good frontend developer, find job and find a team of enthusiastic! 
 ***
+#### __Skills:__
++ HTML5
+- CSS3
+    - Sass     
+    + Less
++ JavaScript (Basic)
+* jQuery
++ Git, GitHub
+- Plagins and Libraries
+    - Bootstrap
+    - Animate.css
+    - Wow.js
+    - Hover.css
+    - Slick
+    - Magnific
+- NPM
+- Gulp
+- Grunt
+- IDE
+    - PhpStorm
+    - VS Code
+- Adobe Photoshop (Basic), Figma (Basic)
+***
+
