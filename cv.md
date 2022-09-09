@@ -13,5 +13,6 @@ So, what about me? I hate praise myself, but still:
 3. I have perseverance to learn and to put a good result.
 4. I can quickly find information.
 5. I quickly navigate and find a way around the situation 
+
 I believe, this course help me with becoming me like a good frontend developer, find job and find a team of enthusiastic! 
 ***
