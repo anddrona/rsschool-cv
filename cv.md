@@ -39,4 +39,10 @@ I believe, this course help me with becoming me like a good frontend developer, 
     - VS Code
 - Adobe Photoshop (Basic), Figma (Basic)
 ***
+#### __Code Example__
+    function multiply(a,b){
+       return(a * b);  
+    };
 
+    multiply(1,2);
+***
