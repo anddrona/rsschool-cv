@@ -46,3 +46,6 @@ I believe, this course help me with becoming me like a good frontend developer, 
 
     multiply(1,2);
 ***
+#### __Experience__
+[My final project of ITlogia school](https://anddrona.github.io/building/). I did it in PhpStorm, used npm, gulp: i used function which return took date from 'main.scss' and 'adaptive.scss', combined and convented in 'main.css', after i minifered 'main.css' and add suffix '.min'. I got 'main.min.css' and used sassWatch, so that's why this file fold always after change. Also i used some php files for sending a request to the server and receiving a responce. And i used several plugins and libraries.
+***
