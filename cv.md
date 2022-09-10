@@ -57,4 +57,4 @@ I believe, this course help me with becoming me like a good frontend developer, 
     + [ITlogia](https://itlogia.ru/)
 ***
 #### __English__
-__B1__ (I practiced the language when i studied in China). Now i keep learning English with mentor.
+__B1__ (I practiced the language when i studied in China). Now i keep learning English with a mentor.
