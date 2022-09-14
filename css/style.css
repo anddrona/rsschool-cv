@@ -80,3 +80,16 @@ width: 100%;
     color: black;
     font-family: "Museo Sans Cyrl 700", sans-serif;
 }
+#experience-block{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+#experience-text{
+    font-size: 20px;
+    font-family: "Museo Sans Cyrl 300", sans-serif;
+}
+#experience-text a{
+    text-decoration: none;
+    color: black;
+    font-family: "Museo Sans Cyrl 700", sans-serif;
+}
