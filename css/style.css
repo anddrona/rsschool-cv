@@ -1,0 +1,129 @@
+body{
+    margin: 0;
+}
+@font-face {
+    font-family: 'Museo Sans Cyrl 500';
+    src: url("../fonts/MuseoSansCyrl500.ttf");
+}
+@font-face {
+    font-family: 'Museo Sans Cyrl 300';
+    src: url("../fonts/MuseoSansCyrl300.ttf");
+}
+@font-face {
+    font-family: 'Museo Sans Cyrl 700';
+    src: url("../fonts/MuseoSansCyrl700.ttf");
+}
+#intro{
+    background-color: rgb(171 171 171);
+}
+#intro-block{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+#photo-block{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding-right: 20px;
+}
+#photo-block h2{
+    margin: 0;
+    font-family: "Museo Sans Cyrl 500", sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 15px;
+    padding-left: 20px;
+}
+#photo-block #photo{
+max-width: 400px;
+}
+#photo-block #photo img{
+width: 100%;
+}
+.title{
+    text-align: center;
+    color: white;
+    font-family: "Museo Sans Cyrl 500", sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+    margin: 45px 0;  
+}
+#about-me-block #about-me-text{
+    font-size: 20px;
+    font-family: "Museo Sans Cyrl 300", sans-serif;
+}
+#about-me-block #about-me-text ol{
+    max-width: 500px;
+    margin: 20px auto;
+}
+#block-skills-education{
+    margin: 0 auto;
+    max-width: 1200px;
+    display: flex;
+    align-items: top;
+    justify-content: space-around;
+}
+#block-skills-education ul li{
+    font-size: 20px;
+    font-family: "Museo Sans Cyrl 300", sans-serif;
+}
+#block-skills-education ul{
+    margin: 0;
+}
+#education-block{
+    max-width: 45%;
+}
+#block-skills-education a{
+    text-decoration: none;
+    color: black;
+    font-family: "Museo Sans Cyrl 700", sans-serif;
+}
+#experience-block{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+#experience-text{
+    font-size: 20px;
+    font-family: "Museo Sans Cyrl 300", sans-serif;
+}
+#experience-text a{
+    text-decoration: none;
+    color: black;
+    font-family: "Museo Sans Cyrl 700", sans-serif;
+}
+#english-block{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+#english-text{
+font-family: "Museo Sans Cyrl 300", sans-serif;
+font-size: 20px;
+text-align: center;
+}
+#english-text span{
+font-family: "Museo Sans Cyrl 700", sans-serif;
+}
+#contacts-block{
+    margin: 0 auto;
+    max-width: 1200px; 
+}
+#contacts{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 100px;
+    margin-top: 80px;
+}
+#contacts a{
+    text-decoration: none;
+    margin: 15px 0;
+    font-size: 20px;
+    letter-spacing: 15px;
+}
+#contacts a:hover{
+    cursor: pointer;
+    color: black;
+    transition: 3s;
+}
