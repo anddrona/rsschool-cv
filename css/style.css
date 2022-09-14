@@ -93,3 +93,15 @@ width: 100%;
     color: black;
     font-family: "Museo Sans Cyrl 700", sans-serif;
 }
+#english-block{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+#english-text{
+font-family: "Museo Sans Cyrl 300", sans-serif;
+font-size: 20px;
+text-align: center;
+}
+#english-text span{
+font-family: "Museo Sans Cyrl 700", sans-serif;
+}
