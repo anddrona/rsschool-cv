@@ -1,1 +1,1 @@
-# https://anddrona.github.io/rsschool-cv/cv
+# https://anddrona.github.io/rsschool-cv/

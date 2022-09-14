@@ -105,3 +105,25 @@ text-align: center;
 #english-text span{
 font-family: "Museo Sans Cyrl 700", sans-serif;
 }
+#contacts-block{
+    margin: 0 auto;
+    max-width: 1200px; 
+}
+#contacts{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 100px;
+    margin-top: 80px;
+}
+#contacts a{
+    text-decoration: none;
+    margin: 15px 0;
+    font-size: 20px;
+    letter-spacing: 15px;
+}
+#contacts a:hover{
+    cursor: pointer;
+    color: black;
+    transition: 3s;
+}
