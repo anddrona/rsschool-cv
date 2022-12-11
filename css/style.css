@@ -54,7 +54,7 @@ width: 100%;
     font-size: 20px;
     font-family: "Museo Sans Cyrl 300", sans-serif;
 }
-#about-me-block #about-me-text ul{
+#about-me-block #about-me-text div{
     max-width: 500px;
     margin: 20px auto;
 }
@@ -65,17 +65,17 @@ width: 100%;
     align-items: top;
     justify-content: space-around;
 }
-#block-skills-education ul{
+#block-skills-education {
     font-size: 20px;
     font-family: "Museo Sans Cyrl 300", sans-serif;
 }
-#block-skills-education ul{
+#block-skills-education div{
     margin: 0;
 }
 #education-block{
     max-width: 45%;
 }
-#block-skills-education ul li a{
+#block-skills-education div div a{
     text-decoration: none;
     color: black;
     font-family: "Museo Sans Cyrl 700", sans-serif;
