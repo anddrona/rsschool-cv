@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://anddrona.github.io/rsschool-cv/
